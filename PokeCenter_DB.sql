@@ -14,4 +14,5 @@ CREATE TABLE Pokemons (
     tipo_secundario VARCHAR(30),
     nivel INT NOT NULL CHECK (nivel >= 1 AND nivel <= 100),
     hp_maximo INT NOT NULL CHECK (hp_maximo > 0)
+	hp_atual INT NOT NULL CHECK (hp_atual > 0)
 );
