@@ -1,0 +1,1 @@
+[{"id":0,"fk_id_treinador":null,"nome":"Charmander","tipoPrimario":"Fogo","tipoSecundario":null,"nivel":1,"hpMaximo":100,"hpAtual":10},{"id":0,"fk_id_treinador":null,"nome":"Squirtle","tipoPrimario":"Água","tipoSecundario":null,"nivel":1,"hpMaximo":100,"hpAtual":100}]

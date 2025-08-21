@@ -1,0 +1,1210 @@
+[
+  {
+    "nome": "Bulbasaur",
+    "tipoPrimario": "Grama",
+    "tipoSecundario": "Venenoso",
+    "nivel": 100,
+    "hpMaximo": 106,
+    "hpAtual": 61
+  },
+  {
+    "nome": "Ivysaur",
+    "tipoPrimario": "Grama",
+    "tipoSecundario": "Venenoso",
+    "nivel": 100,
+    "hpMaximo": 92,
+    "hpAtual": 53
+  },
+  {
+    "nome": "Venusaur",
+    "tipoPrimario": "Grama",
+    "tipoSecundario": "Venenoso",
+    "nivel": 100,
+    "hpMaximo": 88,
+    "hpAtual": 31
+  },
+  {
+    "nome": "Charmander",
+    "tipoPrimario": "Fogo",
+    "tipoSecundario": null,
+    "nivel": 100,
+    "hpMaximo": 65,
+    "hpAtual": 19
+  },
+  {
+    "nome": "Charmeleon",
+    "tipoPrimario": "Fogo",
+    "tipoSecundario": null,
+    "nivel": 100,
+    "hpMaximo": 105,
+    "hpAtual": 53
+  },
+  {
+    "nome": "Charizard",
+    "tipoPrimario": "Fogo",
+    "tipoSecundario": "Voador",
+    "nivel": 100,
+    "hpMaximo": 52,
+    "hpAtual": 50
+  },
+  {
+    "nome": "Squirtle",
+    "tipoPrimario": "Água",
+    "tipoSecundario": null,
+    "nivel": 100,
+    "hpMaximo": 42,
+    "hpAtual": 23
+  },
+  {
+    "nome": "Wartortle",
+    "tipoPrimario": "Água",
+    "tipoSecundario": null,
+    "nivel": 100,
+    "hpMaximo": 40,
+    "hpAtual": 13
+  },
+  {
+    "nome": "Blastoise",
+    "tipoPrimario": "Água",
+    "tipoSecundario": null,
+    "nivel": 100,
+    "hpMaximo": 88,
+    "hpAtual": 16
+  },
+  {
+    "nome": "Caterpie",
+    "tipoPrimario": "Inseto",
+    "tipoSecundario": null,
+    "nivel": 100,
+    "hpMaximo": 90,
+    "hpAtual": 67
+  },
+  {
+    "nome": "Metapod",
+    "tipoPrimario": "Inseto",
+    "tipoSecundario": null,
+    "nivel": 100,
+    "hpMaximo": 118,
+    "hpAtual": 37
+  },
+  {
+    "nome": "Butterfree",
+    "tipoPrimario": "Inseto",
+    "tipoSecundario": "Voador",
+    "nivel": 100,
+    "hpMaximo": 65,
+    "hpAtual": 43
+  },
+  {
+    "nome": "Weedle",
+    "tipoPrimario": "Inseto",
+    "tipoSecundario": "Venenoso",
+    "nivel": 100,
+    "hpMaximo": 95,
+    "hpAtual": 28
+  },
+  {
+    "nome": "Kakuna",
+    "tipoPrimario": "Inseto",
+    "tipoSecundario": "Venenoso",
+    "nivel": 100,
+    "hpMaximo": 46,
+    "hpAtual": 25
+  },
+  {
+    "nome": "Beedrill",
+    "tipoPrimario": "Inseto",
+    "tipoSecundario": "Venenoso",
+    "nivel": 100,
+    "hpMaximo": 79,
+    "hpAtual": 61
+  },
+  {
+    "nome": "Pidgey",
+    "tipoPrimario": "Normal",
+    "tipoSecundario": "Voador",
+    "nivel": 100,
+    "hpMaximo": 51,
+    "hpAtual": 32
+  },
+  {
+    "nome": "Pidgeotto",
+    "tipoPrimario": "Normal",
+    "tipoSecundario": "Voador",
+    "nivel": 100,
+    "hpMaximo": 86,
+    "hpAtual": 49
+  },
+  {
+    "nome": "Pidgeot",
+    "tipoPrimario": "Normal",
+    "tipoSecundario": "Voador",
+    "nivel": 100,
+    "hpMaximo": 31,
+    "hpAtual": 17
+  },
+  {
+    "nome": "Rattata",
+    "tipoPrimario": "Normal",
+    "tipoSecundario": null,
+    "nivel": 100,
+    "hpMaximo": 91,
+    "hpAtual": 35
+  },
+  {
+    "nome": "Raticate",
+    "tipoPrimario": "Normal",
+    "tipoSecundario": null,
+    "nivel": 100,
+    "hpMaximo": 55,
+    "hpAtual": 54
+  },
+  {
+    "nome": "Spearow",
+    "tipoPrimario": "Normal",
+    "tipoSecundario": "Voador",
+    "nivel": 100,
+    "hpMaximo": 115,
+    "hpAtual": 94
+  },
+  {
+    "nome": "Fearow",
+    "tipoPrimario": "Normal",
+    "tipoSecundario": "Voador",
+    "nivel": 100,
+    "hpMaximo": 117,
+    "hpAtual": 19
+  },
+  {
+    "nome": "Ekans",
+    "tipoPrimario": "Venenoso",
+    "tipoSecundario": null,
+    "nivel": 100,
+    "hpMaximo": 92,
+    "hpAtual": 47
+  },
+  {
+    "nome": "Arbok",
+    "tipoPrimario": "Venenoso",
+    "tipoSecundario": null,
+    "nivel": 100,
+    "hpMaximo": 102,
+    "hpAtual": 6
+  },
+  {
+    "nome": "Pikachu",
+    "tipoPrimario": "Elétrico",
+    "tipoSecundario": null,
+    "nivel": 100,
+    "hpMaximo": 107,
+    "hpAtual": 19
+  },
+  {
+    "nome": "Raichu",
+    "tipoPrimario": "Elétrico",
+    "tipoSecundario": null,
+    "nivel": 100,
+    "hpMaximo": 110,
+    "hpAtual": 80
+  },
+  {
+    "nome": "Sandshrew",
+    "tipoPrimario": "Terra",
+    "tipoSecundario": null,
+    "nivel": 100,
+    "hpMaximo": 44,
+    "hpAtual": 26
+  },
+  {
+    "nome": "Sandslash",
+    "tipoPrimario": "Terra",
+    "tipoSecundario": null,
+    "nivel": 100,
+    "hpMaximo": 67,
+    "hpAtual": 48
+  },
+  {
+    "nome": "Nidoran♀",
+    "tipoPrimario": "Venenoso",
+    "tipoSecundario": null,
+    "nivel": 100,
+    "hpMaximo": 104,
+    "hpAtual": 50
+  },
+  {
+    "nome": "Nidorina",
+    "tipoPrimario": "Venenoso",
+    "tipoSecundario": null,
+    "nivel": 100,
+    "hpMaximo": 119,
+    "hpAtual": 29
+  },
+  {
+    "nome": "Nidoqueen",
+    "tipoPrimario": "Venenoso",
+    "tipoSecundario": "Terra",
+    "nivel": 100,
+    "hpMaximo": 48,
+    "hpAtual": 40
+  },
+  {
+    "nome": "Nidoran♂",
+    "tipoPrimario": "Venenoso",
+    "tipoSecundario": null,
+    "nivel": 100,
+    "hpMaximo": 97,
+    "hpAtual": 16
+  },
+  {
+    "nome": "Nidorino",
+    "tipoPrimario": "Venenoso",
+    "tipoSecundario": null,
+    "nivel": 100,
+    "hpMaximo": 90,
+    "hpAtual": 90
+  },
+  {
+    "nome": "Nidoking",
+    "tipoPrimario": "Venenoso",
+    "tipoSecundario": "Terra",
+    "nivel": 100,
+    "hpMaximo": 54,
+    "hpAtual": 49
+  },
+  {
+    "nome": "Clefairy",
+    "tipoPrimario": "Fada",
+    "tipoSecundario": null,
+    "nivel": 100,
+    "hpMaximo": 90,
+    "hpAtual": 47
+  },
+  {
+    "nome": "Clefable",
+    "tipoPrimario": "Fada",
+    "tipoSecundario": null,
+    "nivel": 100,
+    "hpMaximo": 47,
+    "hpAtual": 12
+  },
+  {
+    "nome": "Vulpix",
+    "tipoPrimario": "Fogo",
+    "tipoSecundario": null,
+    "nivel": 100,
+    "hpMaximo": 42,
+    "hpAtual": 12
+  },
+  {
+    "nome": "Ninetales",
+    "tipoPrimario": "Fogo",
+    "tipoSecundario": null,
+    "nivel": 100,
+    "hpMaximo": 47,
+    "hpAtual": 35
+  },
+  {
+    "nome": "Jigglypuff",
+    "tipoPrimario": "Normal",
+    "tipoSecundario": "Fada",
+    "nivel": 100,
+    "hpMaximo": 102,
+    "hpAtual": 69
+  },
+  {
+    "nome": "Wigglytuff",
+    "tipoPrimario": "Normal",
+    "tipoSecundario": "Fada",
+    "nivel": 100,
+    "hpMaximo": 52,
+    "hpAtual": 52
+  },
+  {
+    "nome": "Zubat",
+    "tipoPrimario": "Venenoso",
+    "tipoSecundario": "Voador",
+    "nivel": 100,
+    "hpMaximo": 56,
+    "hpAtual": 37
+  },
+  {
+    "nome": "Golbat",
+    "tipoPrimario": "Venenoso",
+    "tipoSecundario": "Voador",
+    "nivel": 100,
+    "hpMaximo": 104,
+    "hpAtual": 34
+  },
+  {
+    "nome": "Oddish",
+    "tipoPrimario": "Grama",
+    "tipoSecundario": "Venenoso",
+    "nivel": 100,
+    "hpMaximo": 91,
+    "hpAtual": 47
+  },
+  {
+    "nome": "Gloom",
+    "tipoPrimario": "Grama",
+    "tipoSecundario": "Venenoso",
+    "nivel": 100,
+    "hpMaximo": 60,
+    "hpAtual": 18
+  },
+  {
+    "nome": "Vileplume",
+    "tipoPrimario": "Grama",
+    "tipoSecundario": "Venenoso",
+    "nivel": 100,
+    "hpMaximo": 93,
+    "hpAtual": 22
+  },
+  {
+    "nome": "Paras",
+    "tipoPrimario": "Inseto",
+    "tipoSecundario": "Grama",
+    "nivel": 100,
+    "hpMaximo": 57,
+    "hpAtual": 4
+  },
+  {
+    "nome": "Parasect",
+    "tipoPrimario": "Inseto",
+    "tipoSecundario": "Grama",
+    "nivel": 100,
+    "hpMaximo": 44,
+    "hpAtual": 30
+  },
+  {
+    "nome": "Venonat",
+    "tipoPrimario": "Inseto",
+    "tipoSecundario": "Venenoso",
+    "nivel": 100,
+    "hpMaximo": 77,
+    "hpAtual": 56
+  },
+  {
+    "nome": "Venomoth",
+    "tipoPrimario": "Inseto",
+    "tipoSecundario": "Venenoso",
+    "nivel": 100,
+    "hpMaximo": 33,
+    "hpAtual": 18
+  },
+  {
+    "nome": "Diglett",
+    "tipoPrimario": "Terra",
+    "tipoSecundario": null,
+    "nivel": 100,
+    "hpMaximo": 107,
+    "hpAtual": 16
+  },
+  {
+    "nome": "Dugtrio",
+    "tipoPrimario": "Terra",
+    "tipoSecundario": null,
+    "nivel": 100,
+    "hpMaximo": 44,
+    "hpAtual": 42
+  },
+  {
+    "nome": "Meowth",
+    "tipoPrimario": "Normal",
+    "tipoSecundario": null,
+    "nivel": 100,
+    "hpMaximo": 38,
+    "hpAtual": 12
+  },
+  {
+    "nome": "Persian",
+    "tipoPrimario": "Normal",
+    "tipoSecundario": null,
+    "nivel": 100,
+    "hpMaximo": 70,
+    "hpAtual": 53
+  },
+  {
+    "nome": "Psyduck",
+    "tipoPrimario": "Água",
+    "tipoSecundario": null,
+    "nivel": 100,
+    "hpMaximo": 34,
+    "hpAtual": 29
+  },
+  {
+    "nome": "Golduck",
+    "tipoPrimario": "Água",
+    "tipoSecundario": null,
+    "nivel": 100,
+    "hpMaximo": 54,
+    "hpAtual": 38
+  },
+  {
+    "nome": "Mankey",
+    "tipoPrimario": "Lutador",
+    "tipoSecundario": null,
+    "nivel": 100,
+    "hpMaximo": 31,
+    "hpAtual": 31
+  },
+  {
+    "nome": "Primeape",
+    "tipoPrimario": "Lutador",
+    "tipoSecundario": null,
+    "nivel": 100,
+    "hpMaximo": 65,
+    "hpAtual": 27
+  },
+  {
+    "nome": "Growlithe",
+    "tipoPrimario": "Fogo",
+    "tipoSecundario": null,
+    "nivel": 100,
+    "hpMaximo": 98,
+    "hpAtual": 23
+  },
+  {
+    "nome": "Arcanine",
+    "tipoPrimario": "Fogo",
+    "tipoSecundario": null,
+    "nivel": 100,
+    "hpMaximo": 64,
+    "hpAtual": 40
+  },
+  {
+    "nome": "Poliwag",
+    "tipoPrimario": "Água",
+    "tipoSecundario": null,
+    "nivel": 100,
+    "hpMaximo": 108,
+    "hpAtual": 85
+  },
+  {
+    "nome": "Poliwhirl",
+    "tipoPrimario": "Água",
+    "tipoSecundario": null,
+    "nivel": 100,
+    "hpMaximo": 116,
+    "hpAtual": 10
+  },
+  {
+    "nome": "Poliwrath",
+    "tipoPrimario": "Água",
+    "tipoSecundario": "Lutador",
+    "nivel": 100,
+    "hpMaximo": 77,
+    "hpAtual": 43
+  },
+  {
+    "nome": "Abra",
+    "tipoPrimario": "Psíquico",
+    "tipoSecundario": null,
+    "nivel": 100,
+    "hpMaximo": 61,
+    "hpAtual": 27
+  },
+  {
+    "nome": "Kadabra",
+    "tipoPrimario": "Psíquico",
+    "tipoSecundario": null,
+    "nivel": 100,
+    "hpMaximo": 65,
+    "hpAtual": 19
+  },
+  {
+    "nome": "Alakazam",
+    "tipoPrimario": "Psíquico",
+    "tipoSecundario": null,
+    "nivel": 100,
+    "hpMaximo": 30,
+    "hpAtual": 29
+  },
+  {
+    "nome": "Machop",
+    "tipoPrimario": "Lutador",
+    "tipoSecundario": null,
+    "nivel": 100,
+    "hpMaximo": 50,
+    "hpAtual": 16
+  },
+  {
+    "nome": "Machoke",
+    "tipoPrimario": "Lutador",
+    "tipoSecundario": null,
+    "nivel": 100,
+    "hpMaximo": 33,
+    "hpAtual": 3
+  },
+  {
+    "nome": "Machamp",
+    "tipoPrimario": "Lutador",
+    "tipoSecundario": null,
+    "nivel": 100,
+    "hpMaximo": 95,
+    "hpAtual": 81
+  },
+  {
+    "nome": "Bellsprout",
+    "tipoPrimario": "Grama",
+    "tipoSecundario": "Venenoso",
+    "nivel": 100,
+    "hpMaximo": 58,
+    "hpAtual": 58
+  },
+  {
+    "nome": "Weepinbell",
+    "tipoPrimario": "Grama",
+    "tipoSecundario": "Venenoso",
+    "nivel": 100,
+    "hpMaximo": 83,
+    "hpAtual": 19
+  },
+  {
+    "nome": "Victreebel",
+    "tipoPrimario": "Grama",
+    "tipoSecundario": "Venenoso",
+    "nivel": 100,
+    "hpMaximo": 31,
+    "hpAtual": 26
+  },
+  {
+    "nome": "Tentacool",
+    "tipoPrimario": "Água",
+    "tipoSecundario": "Venenoso",
+    "nivel": 100,
+    "hpMaximo": 76,
+    "hpAtual": 21
+  },
+  {
+    "nome": "Tentacruel",
+    "tipoPrimario": "Água",
+    "tipoSecundario": "Venenoso",
+    "nivel": 100,
+    "hpMaximo": 113,
+    "hpAtual": 52
+  },
+  {
+    "nome": "Geodude",
+    "tipoPrimario": "Pedra",
+    "tipoSecundario": "Terra",
+    "nivel": 100,
+    "hpMaximo": 39,
+    "hpAtual": 22
+  },
+  {
+    "nome": "Graveler",
+    "tipoPrimario": "Pedra",
+    "tipoSecundario": "Terra",
+    "nivel": 100,
+    "hpMaximo": 104,
+    "hpAtual": 44
+  },
+  {
+    "nome": "Golem",
+    "tipoPrimario": "Pedra",
+    "tipoSecundario": "Terra",
+    "nivel": 100,
+    "hpMaximo": 80,
+    "hpAtual": 19
+  },
+  {
+    "nome": "Ponyta",
+    "tipoPrimario": "Fogo",
+    "tipoSecundario": null,
+    "nivel": 100,
+    "hpMaximo": 48,
+    "hpAtual": 43
+  },
+  {
+    "nome": "Rapidash",
+    "tipoPrimario": "Fogo",
+    "tipoSecundario": null,
+    "nivel": 100,
+    "hpMaximo": 77,
+    "hpAtual": 31
+  },
+  {
+    "nome": "Slowpoke",
+    "tipoPrimario": "Água",
+    "tipoSecundario": "Psíquico",
+    "nivel": 100,
+    "hpMaximo": 69,
+    "hpAtual": 8
+  },
+  {
+    "nome": "Slowbro",
+    "tipoPrimario": "Água",
+    "tipoSecundario": "Psíquico",
+    "nivel": 100,
+    "hpMaximo": 118,
+    "hpAtual": 17
+  },
+  {
+    "nome": "Magnemite",
+    "tipoPrimario": "Elétrico",
+    "tipoSecundario": "Aço",
+    "nivel": 100,
+    "hpMaximo": 71,
+    "hpAtual": 21
+  },
+  {
+    "nome": "Magneton",
+    "tipoPrimario": "Elétrico",
+    "tipoSecundario": "Aço",
+    "nivel": 100,
+    "hpMaximo": 104,
+    "hpAtual": 11
+  },
+  {
+    "nome": "Farfetch’d",
+    "tipoPrimario": "Normal",
+    "tipoSecundario": "Voador",
+    "nivel": 100,
+    "hpMaximo": 92,
+    "hpAtual": 47
+  },
+  {
+    "nome": "Doduo",
+    "tipoPrimario": "Normal",
+    "tipoSecundario": "Voador",
+    "nivel": 100,
+    "hpMaximo": 65,
+    "hpAtual": 43
+  },
+  {
+    "nome": "Dodrio",
+    "tipoPrimario": "Normal",
+    "tipoSecundario": "Voador",
+    "nivel": 100,
+    "hpMaximo": 108,
+    "hpAtual": 11
+  },
+  {
+    "nome": "Seel",
+    "tipoPrimario": "Água",
+    "tipoSecundario": null,
+    "nivel": 100,
+    "hpMaximo": 111,
+    "hpAtual": 25
+  },
+  {
+    "nome": "Dewgong",
+    "tipoPrimario": "Água",
+    "tipoSecundario": "Gelo",
+    "nivel": 100,
+    "hpMaximo": 98,
+    "hpAtual": 75
+  },
+  {
+    "nome": "Grimer",
+    "tipoPrimario": "Venenoso",
+    "tipoSecundario": null,
+    "nivel": 100,
+    "hpMaximo": 31,
+    "hpAtual": 4
+  },
+  {
+    "nome": "Muk",
+    "tipoPrimario": "Venenoso",
+    "tipoSecundario": null,
+    "nivel": 100,
+    "hpMaximo": 112,
+    "hpAtual": 67
+  },
+  {
+    "nome": "Shellder",
+    "tipoPrimario": "Água",
+    "tipoSecundario": null,
+    "nivel": 100,
+    "hpMaximo": 84,
+    "hpAtual": 57
+  },
+  {
+    "nome": "Cloyster",
+    "tipoPrimario": "Água",
+    "tipoSecundario": "Gelo",
+    "nivel": 100,
+    "hpMaximo": 50,
+    "hpAtual": 11
+  },
+  {
+    "nome": "Gastly",
+    "tipoPrimario": "Fantasma",
+    "tipoSecundario": "Venenoso",
+    "nivel": 100,
+    "hpMaximo": 47,
+    "hpAtual": 16
+  },
+  {
+    "nome": "Haunter",
+    "tipoPrimario": "Fantasma",
+    "tipoSecundario": "Venenoso",
+    "nivel": 100,
+    "hpMaximo": 81,
+    "hpAtual": 47
+  },
+  {
+    "nome": "Gengar",
+    "tipoPrimario": "Fantasma",
+    "tipoSecundario": "Venenoso",
+    "nivel": 100,
+    "hpMaximo": 59,
+    "hpAtual": 52
+  },
+  {
+    "nome": "Onix",
+    "tipoPrimario": "Pedra",
+    "tipoSecundario": "Terra",
+    "nivel": 100,
+    "hpMaximo": 113,
+    "hpAtual": 19
+  },
+  {
+    "nome": "Drowzee",
+    "tipoPrimario": "Psíquico",
+    "tipoSecundario": null,
+    "nivel": 100,
+    "hpMaximo": 31,
+    "hpAtual": 9
+  },
+  {
+    "nome": "Hypno",
+    "tipoPrimario": "Psíquico",
+    "tipoSecundario": null,
+    "nivel": 100,
+    "hpMaximo": 75,
+    "hpAtual": 32
+  },
+  {
+    "nome": "Krabby",
+    "tipoPrimario": "Água",
+    "tipoSecundario": null,
+    "nivel": 100,
+    "hpMaximo": 87,
+    "hpAtual": 31
+  },
+  {
+    "nome": "Kingler",
+    "tipoPrimario": "Água",
+    "tipoSecundario": null,
+    "nivel": 100,
+    "hpMaximo": 111,
+    "hpAtual": 86
+  },
+  {
+    "nome": "Voltorb",
+    "tipoPrimario": "Elétrico",
+    "tipoSecundario": null,
+    "nivel": 100,
+    "hpMaximo": 96,
+    "hpAtual": 67
+  },
+  {
+    "nome": "Electrode",
+    "tipoPrimario": "Elétrico",
+    "tipoSecundario": null,
+    "nivel": 100,
+    "hpMaximo": 95,
+    "hpAtual": 15
+  },
+  {
+    "nome": "Exeggcute",
+    "tipoPrimario": "Grama",
+    "tipoSecundario": "Psíquico",
+    "nivel": 100,
+    "hpMaximo": 105,
+    "hpAtual": 49
+  },
+  {
+    "nome": "Exeggutor",
+    "tipoPrimario": "Grama",
+    "tipoSecundario": "Psíquico",
+    "nivel": 100,
+    "hpMaximo": 98,
+    "hpAtual": 22
+  },
+  {
+    "nome": "Cubone",
+    "tipoPrimario": "Terra",
+    "tipoSecundario": null,
+    "nivel": 100,
+    "hpMaximo": 106,
+    "hpAtual": 17
+  },
+  {
+    "nome": "Marowak",
+    "tipoPrimario": "Terra",
+    "tipoSecundario": null,
+    "nivel": 100,
+    "hpMaximo": 67,
+    "hpAtual": 25
+  },
+  {
+    "nome": "Hitmonlee",
+    "tipoPrimario": "Lutador",
+    "tipoSecundario": null,
+    "nivel": 100,
+    "hpMaximo": 52,
+    "hpAtual": 52
+  },
+  {
+    "nome": "Hitmonchan",
+    "tipoPrimario": "Lutador",
+    "tipoSecundario": null,
+    "nivel": 100,
+    "hpMaximo": 70,
+    "hpAtual": 32
+  },
+  {
+    "nome": "Lickitung",
+    "tipoPrimario": "Normal",
+    "tipoSecundario": null,
+    "nivel": 100,
+    "hpMaximo": 40,
+    "hpAtual": 24
+  },
+  {
+    "nome": "Koffing",
+    "tipoPrimario": "Venenoso",
+    "tipoSecundario": null,
+    "nivel": 100,
+    "hpMaximo": 88,
+    "hpAtual": 2
+  },
+  {
+    "nome": "Weezing",
+    "tipoPrimario": "Venenoso",
+    "tipoSecundario": null,
+    "nivel": 100,
+    "hpMaximo": 90,
+    "hpAtual": 8
+  },
+  {
+    "nome": "Rhyhorn",
+    "tipoPrimario": "Terra",
+    "tipoSecundario": "Pedra",
+    "nivel": 100,
+    "hpMaximo": 50,
+    "hpAtual": 16
+  },
+  {
+    "nome": "Rhydon",
+    "tipoPrimario": "Terra",
+    "tipoSecundario": "Pedra",
+    "nivel": 100,
+    "hpMaximo": 94,
+    "hpAtual": 4
+  },
+  {
+    "nome": "Chansey",
+    "tipoPrimario": "Normal",
+    "tipoSecundario": null,
+    "nivel": 100,
+    "hpMaximo": 51,
+    "hpAtual": 49
+  },
+  {
+    "nome": "Tangela",
+    "tipoPrimario": "Grama",
+    "tipoSecundario": null,
+    "nivel": 100,
+    "hpMaximo": 65,
+    "hpAtual": 43
+  },
+  {
+    "nome": "Kangaskhan",
+    "tipoPrimario": "Normal",
+    "tipoSecundario": null,
+    "nivel": 100,
+    "hpMaximo": 75,
+    "hpAtual": 12
+  },
+  {
+    "nome": "Horsea",
+    "tipoPrimario": "Água",
+    "tipoSecundario": null,
+    "nivel": 100,
+    "hpMaximo": 43,
+    "hpAtual": 40
+  },
+  {
+    "nome": "Seadra",
+    "tipoPrimario": "Água",
+    "tipoSecundario": null,
+    "nivel": 100,
+    "hpMaximo": 43,
+    "hpAtual": 6
+  },
+  {
+    "nome": "Goldeen",
+    "tipoPrimario": "Água",
+    "tipoSecundario": null,
+    "nivel": 100,
+    "hpMaximo": 33,
+    "hpAtual": 31
+  },
+  {
+    "nome": "Seaking",
+    "tipoPrimario": "Água",
+    "tipoSecundario": null,
+    "nivel": 100,
+    "hpMaximo": 38,
+    "hpAtual": 24
+  },
+  {
+    "nome": "Staryu",
+    "tipoPrimario": "Água",
+    "tipoSecundario": null,
+    "nivel": 100,
+    "hpMaximo": 90,
+    "hpAtual": 13
+  },
+  {
+    "nome": "Starmie",
+    "tipoPrimario": "Água",
+    "tipoSecundario": "Psíquico",
+    "nivel": 100,
+    "hpMaximo": 74,
+    "hpAtual": 44
+  },
+  {
+    "nome": "Mr. Mime",
+    "tipoPrimario": "Psíquico",
+    "tipoSecundario": "Fada",
+    "nivel": 100,
+    "hpMaximo": 77,
+    "hpAtual": 64
+  },
+  {
+    "nome": "Scyther",
+    "tipoPrimario": "Inseto",
+    "tipoSecundario": "Voador",
+    "nivel": 100,
+    "hpMaximo": 69,
+    "hpAtual": 15
+  },
+  {
+    "nome": "Jynx",
+    "tipoPrimario": "Gelo",
+    "tipoSecundario": "Psíquico",
+    "nivel": 100,
+    "hpMaximo": 90,
+    "hpAtual": 71
+  },
+  {
+    "nome": "Electabuzz",
+    "tipoPrimario": "Elétrico",
+    "tipoSecundario": null,
+    "nivel": 100,
+    "hpMaximo": 80,
+    "hpAtual": 2
+  },
+  {
+    "nome": "Magmar",
+    "tipoPrimario": "Fogo",
+    "tipoSecundario": null,
+    "nivel": 100,
+    "hpMaximo": 42,
+    "hpAtual": 17
+  },
+  {
+    "nome": "Pinsir",
+    "tipoPrimario": "Inseto",
+    "tipoSecundario": null,
+    "nivel": 100,
+    "hpMaximo": 37,
+    "hpAtual": 24
+  },
+  {
+    "nome": "Tauros",
+    "tipoPrimario": "Normal",
+    "tipoSecundario": null,
+    "nivel": 100,
+    "hpMaximo": 114,
+    "hpAtual": 89
+  },
+  {
+    "nome": "Magikarp",
+    "tipoPrimario": "Água",
+    "tipoSecundario": null,
+    "nivel": 100,
+    "hpMaximo": 35,
+    "hpAtual": 32
+  },
+  {
+    "nome": "Gyarados",
+    "tipoPrimario": "Água",
+    "tipoSecundario": "Voador",
+    "nivel": 100,
+    "hpMaximo": 52,
+    "hpAtual": 49
+  },
+  {
+    "nome": "Lapras",
+    "tipoPrimario": "Água",
+    "tipoSecundario": "Gelo",
+    "nivel": 100,
+    "hpMaximo": 39,
+    "hpAtual": 32
+  },
+  {
+    "nome": "Ditto",
+    "tipoPrimario": "Normal",
+    "tipoSecundario": null,
+    "nivel": 100,
+    "hpMaximo": 51,
+    "hpAtual": 29
+  },
+  {
+    "nome": "Eevee",
+    "tipoPrimario": "Normal",
+    "tipoSecundario": null,
+    "nivel": 100,
+    "hpMaximo": 115,
+    "hpAtual": 104
+  },
+  {
+    "nome": "Vaporeon",
+    "tipoPrimario": "Água",
+    "tipoSecundario": null,
+    "nivel": 100,
+    "hpMaximo": 90,
+    "hpAtual": 34
+  },
+  {
+    "nome": "Jolteon",
+    "tipoPrimario": "Elétrico",
+    "tipoSecundario": null,
+    "nivel": 100,
+    "hpMaximo": 36,
+    "hpAtual": 12
+  },
+  {
+    "nome": "Flareon",
+    "tipoPrimario": "Fogo",
+    "tipoSecundario": null,
+    "nivel": 100,
+    "hpMaximo": 107,
+    "hpAtual": 81
+  },
+  {
+    "nome": "Porygon",
+    "tipoPrimario": "Normal",
+    "tipoSecundario": null,
+    "nivel": 100,
+    "hpMaximo": 34,
+    "hpAtual": 17
+  },
+  {
+    "nome": "Omanyte",
+    "tipoPrimario": "Pedra",
+    "tipoSecundario": "Água",
+    "nivel": 100,
+    "hpMaximo": 43,
+    "hpAtual": 18
+  },
+  {
+    "nome": "Omastar",
+    "tipoPrimario": "Pedra",
+    "tipoSecundario": "Água",
+    "nivel": 100,
+    "hpMaximo": 118,
+    "hpAtual": 62
+  },
+  {
+    "nome": "Kabuto",
+    "tipoPrimario": "Pedra",
+    "tipoSecundario": "Água",
+    "nivel": 100,
+    "hpMaximo": 49,
+    "hpAtual": 35
+  },
+  {
+    "nome": "Kabutops",
+    "tipoPrimario": "Pedra",
+    "tipoSecundario": "Água",
+    "nivel": 100,
+    "hpMaximo": 114,
+    "hpAtual": 104
+  },
+  {
+    "nome": "Aerodactyl",
+    "tipoPrimario": "Pedra",
+    "tipoSecundario": "Voador",
+    "nivel": 100,
+    "hpMaximo": 64,
+    "hpAtual": 34
+  },
+  {
+    "nome": "Snorlax",
+    "tipoPrimario": "Normal",
+    "tipoSecundario": null,
+    "nivel": 100,
+    "hpMaximo": 101,
+    "hpAtual": 8
+  },
+  {
+    "nome": "Articuno",
+    "tipoPrimario": "Gelo",
+    "tipoSecundario": "Voador",
+    "nivel": 100,
+    "hpMaximo": 67,
+    "hpAtual": 64
+  },
+  {
+    "nome": "Zapdos",
+    "tipoPrimario": "Elétrico",
+    "tipoSecundario": "Voador",
+    "nivel": 100,
+    "hpMaximo": 61,
+    "hpAtual": 43
+  },
+  {
+    "nome": "Moltres",
+    "tipoPrimario": "Fogo",
+    "tipoSecundario": "Voador",
+    "nivel": 100,
+    "hpMaximo": 60,
+    "hpAtual": 6
+  },
+  {
+    "nome": "Dratini",
+    "tipoPrimario": "Dragão",
+    "tipoSecundario": null,
+    "nivel": 100,
+    "hpMaximo": 49,
+    "hpAtual": 27
+  },
+  {
+    "nome": "Dragonair",
+    "tipoPrimario": "Dragão",
+    "tipoSecundario": null,
+    "nivel": 100,
+    "hpMaximo": 86,
+    "hpAtual": 43
+  },
+  {
+    "nome": "Dragonite",
+    "tipoPrimario": "Dragão",
+    "tipoSecundario": "Voador",
+    "nivel": 100,
+    "hpMaximo": 60,
+    "hpAtual": 18
+  },
+  {
+    "nome": "Mewtwo",
+    "tipoPrimario": "Psíquico",
+    "tipoSecundario": null,
+    "nivel": 100,
+    "hpMaximo": 104,
+    "hpAtual": 84
+  },
+  {
+    "nome": "Mew",
+    "tipoPrimario": "Psíquico",
+    "tipoSecundario": null,
+    "nivel": 100,
+    "hpMaximo": 85,
+    "hpAtual": 2
+  }
+]
